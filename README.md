@@ -65,6 +65,7 @@ No external BI tools were used — keeping the solution lightweight and fully Ex
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 sales-dashboard-excel/
+
 ├── README.md
 ├── Sales data/
 │   └── Sales Dashboard Data.xlsx
@@ -153,7 +154,10 @@ The final deliverable is a **single-page interactive Excel dashboard** featuring
 - **Slicers**: Year and Category (all visuals update instantly)
 
 ![Sales Dashboard](Dashboard/Sales Dashboard.png)
+
+
 ---
+
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
@@ -186,10 +190,15 @@ Double-click dashboard/sales_dashboard.xlsx (or Sales Dashboard.xlsx at root)
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 Abhisek Chandra Sen Gupta
-Data Analyst 
+
+Data Analyst
+
 📧 Email: abhisekchandrasengupta@gmail.com
+
 🔗 Linkedin: https://www.linkedin.com/in/abhisek-chandra-sen-gupta-573987289?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 📍 Location: Siliguri, West Bengal, India
+
 Feel free to connect or reach out for collaboration, feedback, or questions about the project!
  
 
