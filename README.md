@@ -64,32 +64,35 @@ No external BI tools were used — keeping the solution lightweight and fully Ex
 ---
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
-sales-dashboard-excel/
 
-├── README.md
-├── Sales data/
-│   └── Sales Dashboard Data.xlsx
-│
-├── Sales report/
-│   └── Sales Dashboard report.pdf
-│
-├── Dashboard/
-│   └── Sales dashboard.png
-│
-├── Images/
-│   ├── Category Sales Mix.png
-│   ├── Customer Count.png
-│   ├── Customer Distribution by Category.png
-│   ├── Monthly Sales.png
-│   ├── Profit Gained Over Time.png
-│   ├── Sales and Profit Over Time by year.png
-│   ├── Sales By Category.png
-│   ├── Sales By State.png
-│   ├── Sales vs Profit by category.png
-│   ├── Top 5 customers making profit.png
-│   └── Top 10 products by Total sales.png
+    sales-dashboard-excel/
+
+    ├── README.md
+
+    ├── Sales data/
+     |└── Sales Dashboard Data.xlsx
+
+    ├── Sales report/
+     |└── Sales Dashboard report.pdf
+
+    ├── Dashboard/
+     |└── Sales dashboard.png
+    
+    ├── Images/
+     | └──  Category Sales Mix.png
+     |└──  Customer Count.png
+     |└──  Customer Distribution by Category.png
+     |└──  Monthly Sales.png
+     |└──  Profit Gained Over Time.png
+     |└──  Sales and Profit Over Time by year.png
+     |└──  Sales By Category.png
+     |└──  Sales By State.png
+     |└──  Sales vs Profit by category.png
+     |└──  Top 5 customers making profit.png
+     |└──  Top 10 products by Total sales.png
 
 ---
+
 
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
