@@ -156,8 +156,7 @@ The final deliverable is a **single-page interactive Excel dashboard** featuring
 - Top 10 Products by sales value
 - **Slicers**: Year and Category (all visuals update instantly)
 
-![Sales Dashboard](Dashboard/Sales Dashboard.png)
-
+![Sales Dashboard](Dashboard/Sales%20Dashboard.png)
 
 ---
 
